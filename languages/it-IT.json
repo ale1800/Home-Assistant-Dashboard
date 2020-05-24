@@ -17,7 +17,7 @@
   "automation.specific_time": "orario specifico",
   "automation.then_perform_these_actions": "allora compi queste azioni...",
   "automation.under_these_conditions": "sotto queste condizioni...",
-  "automation.when_any_of_those_event_triggered": "Quando uno di questi eventi è scatenato...",
+  "automation.when_any_of_those_event_triggered": "Quando uno di questi eventi viene scatenato...",
 
   "button.add_label_text": "aggiungi testo",
   "button.add_new_button": "aggiungi un nuovo pulsante",
